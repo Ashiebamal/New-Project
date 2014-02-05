@@ -1,3 +1,10 @@
 @charset "utf-8";
 /* CSS Document */
 
+.nc{ color:#ff0034;
+font=size:16px !important;
+<!--important iis written beacuse of forcing the default color to change-->
+}
+.cp {padding-left:20px !important;
+padding-top:40px;
+}
